@@ -17,7 +17,7 @@ public class AppConfig {
     @Bean
     public Phone phone2() {
         Phone phone = new Phone();
-        phone.setMob("7894564567");
+        phone.setMob("4567892131");
         return phone;
     }
 
